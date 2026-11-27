@@ -1,6 +1,0 @@
-{
-  "name": "DAB+/FM Tuner",
-  "description": "Android Autoradio-App für DAB+- und FM/UKW-Empfang über Auto-Antenne und Live-Streaming mit 8-/10-Zoll-Cockpit und Sender-Bilderkennung.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
